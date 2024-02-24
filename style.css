@@ -53,13 +53,3 @@ body {
   justify-content: space-around;
   margin-bottom: 20px;
 }
-
-@media screen {
-  .container {
-    width: 290px;
-    height: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-}
